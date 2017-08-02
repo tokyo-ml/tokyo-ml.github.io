@@ -1,11 +1,9 @@
 ---
-title: ML Kitchen with TF Tokyo
+title: Talk about all things Machine Learning
 signup:
     MLKitchen: https://www.meetup.com/tokyo-machine-learning-kitchen/events/239631655/
     TFTokyo: https://www.meetup.com/TensorFlow-Tokyo/events/238261806/
 ---
-
-## Announcement
 
 Good news Everybody!
 
