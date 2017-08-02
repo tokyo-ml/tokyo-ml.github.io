@@ -20,3 +20,11 @@ header a.button {
 a {
     color: #339900;
 }
+
+a:hover {
+    color: #336600;    
+}
+
+#main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
+    color: #cc6600;
+}
