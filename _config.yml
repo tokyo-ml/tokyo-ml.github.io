@@ -1,7 +1,5 @@
 title: Machine Learning Kitchen
-future: true
 email: careers@cookpad.com
-
 title: Tokyo Machine Learning Kitchen
 description: Make Every Day Machine Learning Fun
 # Build settings
@@ -12,8 +10,11 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+future: true
 
-place: >
-  Cookpad Inc.<br>
-  Yebisu Garden Place Tower 12th Floor<br>
-  4-20-3 Ebisu, Shibuya-ku, Tokyo, 150-6012 Japan ([map](https://info.cookpad.com/en/corporate/location))
+default:
+  time: "19:00"
+  place: >
+    Cookpad Inc.<br>
+    Yebisu Garden Place Tower 12th Floor<br>
+    4-20-3 Ebisu, Shibuya-ku, Tokyo, 150-6012 Japan ([map](https://info.cookpad.com/en/corporate/location))
