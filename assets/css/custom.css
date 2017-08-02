@@ -29,10 +29,16 @@ a:hover {
 }
 
 #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
-    color: #cc6600;
+    color: #cc0033;
 }
 
-.date {
-    color: #ff3399;
+.date-and-time {
+    color: #ff3366;
     font-size: 150%;
 }
+
+#main-content h1.date-and-time {
+    color: #ff3366;
+    font-size: 200%;
+}
+

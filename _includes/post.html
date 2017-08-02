@@ -1,7 +1,10 @@
 <div class="inner clearfix">
     <section id="main-content">
+      <h1 class="date-and-time">{{ include.post.date | date: "%B %e, %Y" }}, {% if include.post.time %} {{ include.post.time }}{% else %}{{ site.default.time }}{% endif %}</h1>
+
         <h1><a href="{{ include.post.url }}">{{ include.post.title }}</a></h1>
         
+
 {{ include.post.content }}
 
 {% include past_events.html %}
@@ -10,6 +13,9 @@
     <aside id="sidebar">
       {% if include.post.date %}
       
+      <h1>Date and Time</h1>
+            <p class="date-and-time">{{ include.post.date | date: "%B %e, %Y" }}, {% if include.post.time %} {{ include.post.time }}{% else %}{{ site.default.time }}{% endif %}</p>
+      
       <h1>Sign up</h1>
       <ul>
       {% for link in include.post.signup %}
@@ -17,11 +23,9 @@
       {% endfor %}
       </ul>
       
-      <h1>Date and Time</h1>
-      <h3 class="date">{{ include.post.date | date: "%B %e, %Y" }}<br>{% if include.post.time %} {{ include.post.time }}{% else %}{{ site.default.time }}{% endif %}</h3>
       <h1>Place</h1>
       {% if include.post.place %} {{ include.post.place | markdownify }} {% else %} {{ site.default.place | markdownify}} {% endif %}
-        <iframe width="240" height="240" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCi_Jw4E88rbHMao6zMIiLmPlNjttH2KaE&q=Yebisu+Garden+Towek,Tokyo" allowfullscreen>
+        <iframe width="100%" height="260" frameborder="0" style="border:1px solid #eee" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCi_Jw4E88rbHMao6zMIiLmPlNjttH2KaE&q=Yebisu+Garden+Towek,Tokyo" allowfullscreen>
         </iframe>
       {% endif %}
       
