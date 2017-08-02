@@ -1,0 +1,11 @@
+<hr>
+<h2>Meeting archive:</h2>
+<ul>
+{% assign curDate = site.time | date: '%s' %}
+{% for post in site.posts %}
+{% assign postStartDate = post.date | date: '%s' %}
+{% if postStartDate < curDate %}
+<li>{{ post.date | date: "%B %e, %Y" }} <br><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>

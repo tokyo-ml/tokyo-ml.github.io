@@ -1,0 +1,32 @@
+<div class="inner clearfix">
+    <section id="main-content">
+        <h1><a href="{{ include.post.url }}">{{ include.post.title }}</a></h1>
+        
+{{ include.post.content }}
+
+{% include past_events.html %}
+
+    </section>
+    <aside id="sidebar">
+      {% if include.post.date %}
+      
+      <h1>Sign up:</h1>
+      <ul>
+      {% for link in include.post.signup %}
+          <li><big><a href="{{link[1]}}">{{link[0]}}</a></big></li>
+      {% endfor %}
+      </ul>
+      
+      <h1>Date and Time:</h1>
+      <h2>{{ include.post.date | date: "%B %e, %Y" }} {% if include.post.time %} {{ include.post.time }}{% else %}{{ 19:00 }}{% endif %}</h2>
+      <br>
+      <h1>Place:</h1>
+      {% if include.post.place %} {{ include.post.place | markdownify }} {% else %} {{ site.place | markdownify}} {% endif %}
+        <iframe width="240" height="240" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCi_Jw4E88rbHMao6zMIiLmPlNjttH2KaE&q=Yebisu+Garden+Towek,Tokyo" allowfullscreen>
+        </iframe>
+      {% endif %}
+      
+
+    </aside>
+</div>
+

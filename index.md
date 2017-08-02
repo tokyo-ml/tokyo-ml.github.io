@@ -1,0 +1,25 @@
+{% assign TBA = true %}
+{% assign curDate = site.time | date: '%s' %}
+{% for post in site.posts %}
+{% assign postStartDate = post.date | date: '%s' %}
+{% if postStartDate >= curDate %}
+{% include post.html post=post %} 
+{% assign TBA = false %}
+{% endif %}
+{% endfor %}
+
+{% if TBA %}
+
+<div class="inner clearfix">
+    <section id="main-content">
+        <h1>TBA</h1>
+    </section>
+    <aside id="sidebar">
+        {%include past_events.html %}
+    </aside>
+</div>
+
+{% endif %}
+
+<hr>
+
