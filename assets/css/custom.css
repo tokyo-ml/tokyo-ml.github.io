@@ -16,3 +16,7 @@ header a.button {
     top: auto;
     bottom: 0;
 }
+
+a {
+    color: #339900;
+}
