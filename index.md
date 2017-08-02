@@ -1,25 +1,7 @@
-{% assign TBA = true %}
-{% assign curDate = site.time | date: '%s' %}
-{% for post in site.posts %}
-{% assign postStartDate = post.date | date: '%s' %}
-{% if postStartDate >= curDate %}
-{% include post.html post=post %} 
-{% assign TBA = false %}
-{% endif %}
-{% endfor %}
+---
+layout: home
+---
 
-{% if TBA %}
+# To Be Announced
 
-<div class="inner clearfix">
-    <section id="main-content">
-        <h1>TBA</h1>
-    </section>
-    <aside id="sidebar">
-        {%include past_events.html %}
-    </aside>
-</div>
-
-{% endif %}
-
-<hr>
-
+The next event is not announced yet. If you'd like to be a speaker, make an issue on the [repository for this site](https://github.com/tokyo-ml/tokyo-ml.github.io) and we'll add you to the upcoming event.
