@@ -1,3 +1,6 @@
+body{
+    color: #330000;
+}
 header {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -18,7 +21,7 @@ header a.button {
 }
 
 a {
-    color: #339900;
+    color: #889b00;
 }
 
 a:hover {
@@ -27,4 +30,9 @@ a:hover {
 
 #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
     color: #cc6600;
+}
+
+.date {
+    color: #ff3399;
+    font-size: 150%;
 }
