@@ -11,3 +11,8 @@ header {
 header h2 {
     color: #ffdbae;
 }
+
+header a.button {
+    top: auto;
+    bottom: 0;
+}
