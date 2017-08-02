@@ -1,0 +1,13 @@
+header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #ff8a02 url(../img/bn_meetup.png) center right;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  border-bottom: solid 1px #fe9a1f;
+}
+
+header h2 {
+    color: #ffdbae;
+}
