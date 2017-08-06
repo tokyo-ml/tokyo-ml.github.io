@@ -13,9 +13,10 @@ This event is co-organized with [TensorFlow Tokyo group](https://www.meetup.com/
 ## Schedule
 
 - 19:00 Doors open
-- 19:30 Yann LeGuilly - Backpropagation
+- 19:20 *Welcome and introduction* by Edmund Gehringer
+- 19:30 *Backpropagation* by Yann LeGuilly
 - 19:50 --BREAK for FOOD and DRINKs--
-- 20:00 Ashley Smart - Reinforcement Learning
-- 20:30 TBA
+- 20:00 *Reinforcement Learning* by Ashley Smart
+- 20:30 *English to Katakana* by Wanasit Tanakitrungruang
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
