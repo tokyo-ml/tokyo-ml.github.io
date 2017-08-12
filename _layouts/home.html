@@ -2,6 +2,8 @@
 layout: layout
 ---
 
+{{ content }}
+
 {% assign TBA = true %}
 {% assign curDate = site.time | date: '%s' %}
 {% for post in site.posts %}
@@ -16,7 +18,12 @@ layout: layout
 
 <div class="inner clearfix">
     <section id="main-content">
-        {{ page.content | markdownify }}
+
+
+<h1>To Be Announced</h1>
+
+The next event is not announced yet. If you'd like to be a speaker, make an issue on the <a href="https://github.com/tokyo-ml/tokyo-ml.github.io">repository for this site</a> and we'll add you to the upcoming event.
+
     </section>
     <aside id="sidebar">
         {%include past_events.html %}
