@@ -20,3 +20,10 @@ This event is co-organized with [TensorFlow Tokyo group](https://www.meetup.com/
 - 20:30 *English to Katakana* by Wanasit Tanakitrungruang
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
+
+---
+
+## Slides and links:
+
+- *Q Learning* by Ashley: [slides repository](https://github.com/ashleysmart/mlgym/tree/master/qlearning)
+- *English to Katakana* by Wanasit: [slides](https://speakerdeck.com/wanasit/english-to-katakana-with-sequence-to-sequence-learning-in-keras), [code](https://github.com/wanasit/katakana)
