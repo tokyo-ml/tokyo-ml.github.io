@@ -27,5 +27,5 @@ If you want to hear all about the secret sauce the Cookpad R&D team is frying th
 
 ## Slides and links:
 
+- [How we use GPUs in Cookpad](https://speakerdeck.com/ayemos/how-we-use-gpus-in-cookpad) by Ayemos
 - [Cooking with Food Photos](https://speakerdeck.com/lunardog/cooking-with-food-photos) by Leszek
-- 
