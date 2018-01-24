@@ -14,8 +14,10 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 - 19:20 *Welcome and introduction* by Leszek
 - Keynote talk by Ashley Smart
 - 19:50 --BREAK for FOOD and DRINKs--
-- Lightning talk
-- Lightning talk
+- Lightning talks:
+- *Cookiecutter Docker Science* by T.I.
+- *NIPS Report* by Y.K.
+- *Kelner* by L.R.
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
 
@@ -24,12 +26,15 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 クックパッドで機械学習...？レシピで有名な名会社では？機械学習と料理って関係あるの？
 
 ## スケジュール
+## Schedule
 
 - 19:00 Doors open
 - 19:20 *Welcome and introduction* by Leszek
 - Keynote talk by Ashley Smart
 - 19:50 --BREAK for FOOD and DRINKs--
-- Lightning talk
-- Lightning talk
+- Lightning talks:
+- *Cookiecutter Docker Science* by T.I.
+- *NIPS Report* by Y.K.
+- *Kelner* by L.R.
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
