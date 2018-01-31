@@ -31,8 +31,12 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 
 ### Ashley Smart *Keynote Talk*
 
+Ashley is an engineer at Bloomberg. His talks are always breathtaking and show his passion for machine learning and love for mathematics and the beauty of data.
+
 ### Takahiko Ito *Cookiecutter Docker Science*
 
 ### Yohei Kikuta *NIPS 2017 Report*
 
 ### Leszek Rybicki *Kelner*
+
+Leszek does image recognition at Cookpad. With a background in machine learning theory and experience with user-facing systems, his motivation is that his work helps as many users as possible.
