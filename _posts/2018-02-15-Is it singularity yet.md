@@ -20,8 +20,19 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 - Keynote talk by Ashley Smart
 - 19:50 --BREAK for FOOD and DRINKs--
 - Lightning talks:
-  - *Cookiecutter Docker Science* by T.I.
-  - *NIPS 2017 Report* by Y.K.
-  - *Kelner* by L.R.
+  - *Cookiecutter Docker Science* by Takahiko Ito
+  - *NIPS 2017 Report* by Yohei Kikuta
+  - *Kelner* by Leszek Rybicki
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
+
+## 登壇者/発表タイトル 
+## Speaker / Title
+
+### Ashley Smart *Keynote Talk*
+
+### Takahiko Ito *Cookiecutter Docker Science*
+
+### Yohei Kikuta *NIPS 2017 Report*
+
+### Leszek Rybicki *Kelner*
