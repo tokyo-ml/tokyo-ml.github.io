@@ -22,7 +22,7 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 - Lightning talks:
   - *Cookiecutter Template for Data Scientists Working in Docker Containers* by Takahiko Ito
   - *NIPS 2017 Report* by Yohei Kikuta
-  - *Kelner* by Leszek Rybicki
+  - *Kelner - serving your models* by Leszek Rybicki
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
 
@@ -39,6 +39,6 @@ Received his Ph.D. in Engineering at the NAIST. He worked at Fast Search & Trans
 
 ### Yohei Kikuta *NIPS 2017 Report*
 
-### Leszek Rybicki *Kelner*
+### Leszek Rybicki *Kelner - serving your models*
 
 Leszek does image recognition at Cookpad. With a background in machine learning theory and experience with user-facing systems, his motivation is that his work helps as many users as possible.
