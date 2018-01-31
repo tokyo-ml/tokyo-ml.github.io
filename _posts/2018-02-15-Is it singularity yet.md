@@ -29,7 +29,7 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 ## 登壇者/発表タイトル 
 ## Speaker / Title
 
-###  *Keynote Talk* by Ashley Smart
+### Ashley Smart *Keynote talk*
 
 Ashley is an engineer at Bloomberg. His talks are always breathtaking and show his passion for machine learning and love for mathematics and the beauty of data.
 
