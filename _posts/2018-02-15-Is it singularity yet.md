@@ -20,7 +20,7 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 - Keynote talk by Ashley Smart
 - 19:50 --BREAK for FOOD and DRINKs--
 - Lightning talks:
-  - *Cookiecutter Docker Science* by Takahiko Ito
+  - *Cookiecutter Template for Data Scientists Working in Docker Containers* by Takahiko Ito
   - *NIPS 2017 Report* by Yohei Kikuta
   - *Kelner* by Leszek Rybicki
 - 21:00 --Networking time!--
@@ -29,11 +29,14 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 ## 登壇者/発表タイトル 
 ## Speaker / Title
 
-### Ashley Smart *Keynote Talk*
+###  *Keynote Talk* by Ashley Smart
 
 Ashley is an engineer at Bloomberg. His talks are always breathtaking and show his passion for machine learning and love for mathematics and the beauty of data.
 
-### Takahiko Ito *Cookiecutter Docker Science*
+### *Cookiecutter Template for Data Scientists Working in Docker Containers* by Takahiko Ito
+### Takahiko Ito *Cookiecutter Template for Data Scientists Working in Docker Containers*
+Received his Ph.D. in Engineering at the NAIST. He worked at Fast Search & Transfer as a NLP expert before joining Cookpad Inc.
+博士 (工学)。ファストサーチ＆トランスファ社において自然言語処理を利用したコンポーネント開発に取り組む。現在、株式会社クックパッドで研究開発に従事。
 
 ### Yohei Kikuta *NIPS 2017 Report*
 
