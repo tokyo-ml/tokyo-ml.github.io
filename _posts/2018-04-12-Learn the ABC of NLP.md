@@ -1,9 +1,8 @@
 ---
-title: Keep Calm and do ML
+title: Learn the ABC of NLP
 signup:
-  MLKitchen: https://www.meetup.com/tokyo-machine-learning-kitchen/events/242060161/
-  Connpass: https://cookpad.connpass.com/event/63420/
-  TFTokyo: https://www.meetup.com/TensorFlow-Tokyo/events/242155523/
+  MLKitchen: https://www.meetup.com/tokyo-machine-learning-kitchen/events/248982280/
+  Connpass: https://connpass.com/event/82996/
 ---
 
 ## ML Kitchen について
