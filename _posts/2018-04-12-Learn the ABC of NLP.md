@@ -1,5 +1,5 @@
 ---
-title: Learn the ABC of NLP
+title: ML Kitchen #8
 signup:
   MLKitchen: https://www.meetup.com/tokyo-machine-learning-kitchen/events/248982280/
   Connpass: https://connpass.com/event/82996/
