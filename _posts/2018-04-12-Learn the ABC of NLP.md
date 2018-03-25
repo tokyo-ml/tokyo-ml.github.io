@@ -38,6 +38,10 @@ signup:
  - [Suzana Ilić](https://twitter.com/suzatweet?lang=en)
  - [LK](https://github.com/uhho)
 
+### [Suzana Ilić](https://twitter.com/suzatweet?lang=en) *Text-based Affective Computing: How machines read emotions*
+
+Suzana Ilic is a PhD Candidate at Leopold Franzens University of Innsbruck, Austria. Most recently, she completed a half-year research stay in Natural Language Processing at the National Institute of Informatics (Tokyo, Japan). Her background is in Applied and Computational Linguistics, with a research focus on Affective Computing and Sentiment Analysis. She co-authored the research paper "Decision support with text-based emotion recognition: Deep learning for affective computing" in collaboration with ETH Zurich, which is currently under review at Elsevier.
+
 ## 対象
 機械学習・研究開発及び、そのサービス活用方法に興味のある方
 
