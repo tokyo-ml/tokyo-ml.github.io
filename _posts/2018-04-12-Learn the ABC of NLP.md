@@ -49,6 +49,11 @@ Currently Alameen leads the data unit at Axelspace corporation. He holds a PhD i
 
 Van Huy is doing Machine Learning and developing new services at Cookpad R&D. He graduated from The University of Tokyo with a background in Speech Recognition. Currently, he is interested in Text Classification and Dialogue Systems.
 
+### [Chie Hayashida]() *TBD
+
+Chie Hayashida is a machine learning engineer at Cookpad.Inc. She holds a master's degree in computer engineering from NAIST, with a background in signal processing.
+Currently, she promotes machine learning infrastructure, and scalable recommender systems.
+
 ## 対象
 機械学習・研究開発及び、そのサービス活用方法に興味のある方
 
