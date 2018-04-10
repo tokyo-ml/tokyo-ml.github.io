@@ -25,6 +25,7 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 - Lightning talks:
   - [Alameen Najjar](https://jp.linkedin.com/in/alameen-najjar) *10 things you need to know before you apply machine learning to satellite images*
   - [Van Huy](https://github.com/vanhuyz) *3 Challenges in Customer Feedback Classification*
+  - [Chie Hayashida](#) *TBD*
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
 
@@ -39,7 +40,7 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 
 ### [Suzana Ilić](https://twitter.com/suzatweet?lang=en) *Text-based Affective Computing: How machines read emotions*
 
-Suzana Ilic is a PhD Candidate at Leopold Franzens University of Innsbruck, Austria. Most recently, she completed a half-year research stay in Natural Language Processing at the National Institute of Informatics (Tokyo, Japan). Her background is in Applied and Computational Linguistics, with a research focus on Affective Computing and Sentiment Analysis. She co-authored the research paper "Decision support with text-based emotion recognition: Deep learning for affective computing" in collaboration with ETH Zurich, which is currently under review at Elsevier.
+Suzana Ilic is a PhD Candidate at Leopold Franzens University of Innsbruck, Austria. Most recently, she completed a half-year research stay in Natural Language Processing at the National Institute of Informatics (Tokyo, Japan). Her background is in Applied and Computational Linguistics, with a research focus on Affective Computing and Sentiment Analysis.
 
 ### [Alameen Najjar](https://jp.linkedin.com/in/alameen-najjar) *10 things you need to know before you apply machine learning to satellite images*
 
