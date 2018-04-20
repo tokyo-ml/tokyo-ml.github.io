@@ -25,7 +25,7 @@ Wait... a Machine Learning event at Cookpad? The famous recipe sharing service c
 - Lightning talks:
   - [Alameen Najjar](https://jp.linkedin.com/in/alameen-najjar) *10 things you need to know before you apply machine learning to satellite images*
   - [Van Huy](https://github.com/vanhuyz) *3 Challenges in Customer Feedback Classification*
-  - [Chie Hayashida](#) *TBD*
+  - [Chie Hayashida](#) *How should we manage our experiments?*
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
 
@@ -50,7 +50,7 @@ Currently Alameen leads the data unit at Axelspace corporation. He holds a PhD i
 
 Van Huy is doing Machine Learning and developing new services at Cookpad R&D. He graduated from The University of Tokyo with a background in Speech Recognition. Currently, he is interested in Text Classification and Dialogue Systems.
 
-### [Chie Hayashida]() *TBD
+### [Chie Hayashida]() *How should we manage our experiments?*
 
 Chie Hayashida is a machine learning engineer at Cookpad.Inc. She holds a master's degree in computer engineering from NAIST, with a background in signal processing.
 Currently, she promotes machine learning infrastructure, and scalable recommender systems.
