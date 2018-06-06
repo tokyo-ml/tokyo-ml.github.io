@@ -1,5 +1,5 @@
 ---
-title: ML Kitchen #9 form Outer Space
+title: ML Kitchen \#9 form Outer Space
 signup:
   MLKitchen: https://www.meetup.com/tokyo-machine-learning-kitchen/events/251008705/
   Connpass: #
