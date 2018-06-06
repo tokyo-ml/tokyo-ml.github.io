@@ -1,8 +1,15 @@
 ---
-title: ML Kitchen #9 form Outer Space
+title: ML Kitchen \#9 form Outer Space
 signup:
-  MLKitchen: #
+  MLKitchen: https://www.meetup.com/tokyo-machine-learning-kitchen/events/251008705/
   Connpass: #
+---
+
+# Looking for speakers
+
+If you'd like to present, please e-mail to leszek-rybicki@cookpad.com or make an issue at [this site's github repo](https://github.com/tokyo-ml/tokyo-ml.github.io/issues).
+
+
 ---
 
 Whether you're working on machine learning during the day or in your free time, take this opportunity to meet other researchers and engineers. Good chance to converge, add some noise to your neurons, network with your peers, get some knowledge transfer and go deeper into machine learning topics with interesting talks.
