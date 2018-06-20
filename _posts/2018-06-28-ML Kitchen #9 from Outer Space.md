@@ -12,7 +12,7 @@ Whether you're working on machine learning during the day or in your free time, 
 
 - 19:00 Doors open
 - 19:20 *Welcome and introduction* by Leszek
-- Keynote talk: TBA by Takuya Narahira
+- Keynote talk: *Introduction of Neural Network Libraries / Console* by Takuya Narahira
 - 19:50 --BREAK for FOOD and DRINKs--
 - Lightning talks:
   - *Super Resolution using Generative Adversarial Networks (GANs)* by Uddeshya Upadhyay
@@ -31,9 +31,9 @@ Whether you're working on machine learning during the day or in your free time, 
 
 ## 場所 ・ Venue
 
-クックパッド株式会社 <br/>
+<a href="https://info.cookpad.com/corporate/access">クックパッド株式会社 <br/>
 東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー12F<br/>
-※ JR山手線 恵比寿駅より 徒歩約10分
+※ JR山手線 恵比寿駅より 徒歩約10分</a>
 
 
 ## 登壇者/発表タイトル  ・  Speaker / Title
