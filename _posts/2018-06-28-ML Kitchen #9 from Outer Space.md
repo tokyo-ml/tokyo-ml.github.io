@@ -17,7 +17,7 @@ Whether you're working on machine learning during the day or in your free time, 
 - Lightning talks:
   - *Super Resolution using Generative Adversarial Networks (GANs)* by Uddeshya Upadhyay
   - *How to Start Machine Learning Now & Learn Data Preprocessing Later* by Khor
-  - *EMPTY*
+  - *Churn Rate prediction in Cookpad Global* by Saurabh Bhadada
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
 
