@@ -15,9 +15,9 @@ Whether you're working on machine learning during the day or in your free time, 
 - Keynote talk: ** by Florian Ludot
 - 19:50 --BREAK for FOOD and DRINKs--
 - Lightning talks:
-  - `open slot`
-  - `open slot`
-  - `open slot`
+  - [TBA] by Chie Hayashida
+  - [TBA] by Takahito Ito
+  - *Towards Realistic Predictors* by Leszek
 - 21:00 --Networking time!--
 - 22:00 --CLOSING TIME--
 
