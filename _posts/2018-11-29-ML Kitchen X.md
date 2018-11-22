@@ -15,7 +15,7 @@ Whether you're working on machine learning during the day or in your free time, 
 - Keynote talk: ** by Florian Ludot
 - 19:50 --BREAK for FOOD and DRINKs--
 - Lightning talks:
-  - [TBA] by Chie Hayashida
+  - *"Migrating ML application from GPU to CPU"* by Chie Hayashida
   - [TBA] by Takahito Ito
   - *Towards Realistic Predictors* by Leszek
 - 21:00 --Networking time!--
